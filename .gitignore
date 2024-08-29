@@ -27,6 +27,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env*
 
 # vercel
 .vercel
@@ -39,3 +40,5 @@ TODO.md
 
 public/test.html
 drizzle
+
+/secrets*
